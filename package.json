@@ -1,0 +1,22 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:ghs_hC309Cw4yLcLAXrjecizjvOEjLNAlO425dHA@github.com/carydevvv/VP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carydevvv/VP/issues"
+  },
+  "homepage": "https://github.com/carydevvv/VP#readme"
+}
