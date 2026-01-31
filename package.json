@@ -7,16 +7,14 @@
     "start": "cd backend && npm start",
     "dev": "cd backend && npm run dev"
   },
-  "private": true,
+  "private": true
   "repository": {
-    "type": "git",
-    "url": "git+https://x-access-token:ghs_hC309Cw4yLcLAXrjecizjvOEjLNAlO425dHA@github.com/carydevvv/VP.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/carydevvv/VP/issues"
-  },
-  "homepage": "https://github.com/carydevvv/VP#readme"
-}
+    "type":"git"
+    "url":"https://github.com/carydevv/VP.git"
+ },
+ "keywords": [],
+ "arthor":"",
+ "license":"ISC",
+ "bugs":{
+  "url":"https://github.com/carydevvv/VP#readme"
+ }
